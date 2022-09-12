@@ -95,3 +95,55 @@ ul {
   color: #000000;
 }
 
+.pf-main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pf-image1 {
+  width: 300px;
+  height: 250px;
+  background-image: url(images/img/sketch.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.pf-image2 {
+  width: 300px;
+  height: 250px;
+  background-image: url(images/img/websuku.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.pf-image3 {
+  width: 300px;
+  height: 250px;
+  background-image: url(images/img/write.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.pf-image4 {
+  width: 300px;
+  height: 250px;
+  background-image: url(images/img/webcamp.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.pf-image5 {
+  width: 300px;
+  height: 250px;
+  background-image: url(images/img/talk.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.pf-image6 {
+  width: 300px;
+  height: 250px;
+  background-image: url(images/img/webcamp-mother.png);
+  background-size: cover;
+  background-position: center;
+}
